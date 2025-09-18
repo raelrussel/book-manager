@@ -2,17 +2,17 @@
 
 Requirements: Node.js (>=14), npm
 
-INSTALL:
+# INSTALL:
 --npm install
 
 --POSTMAN Dekstop (optional, for API Testing)
 
-RUN:
+# RUN:
 --npm start
-# or
+or
 --npm run dev
 
-FEATURES
+# FEATURES
 
 [POST] /books → Create a new book
 
@@ -30,7 +30,7 @@ Input validation with proper error responses
 
 SQLite database (auto-created on first run)
 
-PROJECT STRUCTURE: 
+# PROJECT STRUCTURE: 
 
 book-manager/
 ├─ controllers/
@@ -46,7 +46,7 @@ book-manager/
 ├─ README.md
 └─ books.db               # SQLite DB
 
-INSTALLATION AND SETUP:
+# INSTALLATION AND SETUP:
 
 1. Clone the repo
 
